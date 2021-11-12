@@ -1,0 +1,24 @@
+Bebida: id=1, litros=5.3, precio=3000.0, marca='Evian' origen='MANANTIAL' -> Agua Mineral
+Bebida: id=2, litros=4.0, precio=8000.0, marca='Postobon' origen='OASIS' -> Agua Mineral
+Bebida: id=3, litros=1.2, precio=1200.0, marca='Aquafina' origen='RESERVA' -> Agua Mineral
+Bebida: id=4, litros=1.0, precio=1000.0, marca='Dasani' origen='RESERVA' -> Agua Mineral
+Bebida: id=5, litros=1.5, precio=1100.0, marca='Cristal' origen='OASIS' -> Agua Mineral
+Bebida: id=6, litros=1.8, precio=1000.0, marca='Gota' origen='OASIS' -> Agua Mineral
+Bebida: id=7, litros=2.1, precio=1300.0, marca='Epura' origen='MANANTIAL' -> Agua Mineral
+Bebida: id=8, litros=2.0, precio=4000.0, marca='Coca cola' porcentajeAzucar=60.0 %, promocion=SI, precio con promocion: 3600.0 -> Bebida azucarada
+Bebida: id=9, litros=2.5, precio=3000.0, marca='Hipinto' porcentajeAzucar=30.0 %, promocion=NO -> Bebida azucarada
+Bebida: id=11, litros=3.5, precio=7000.0, marca='Coca cola' porcentajeAzucar=80.0 %, promocion=NO -> Bebida azucarada
+Bebida: id=12, litros=1.7, precio=2500.0, marca='Glacial' porcentajeAzucar=20.0 %, promocion=NO -> Bebida azucarada
+Bebida: id=13, litros=1.0, precio=4000.0, marca='Zabiloe' porcentajeAzucar=10.0 %, promocion=SI, precio con promocion: 3600.0 -> Bebida azucarada
+Bebida: id=14, litros=2.3, precio=3000.0, marca='Ponimalta' porcentajeAzucar=70.0 %, promocion=SI, precio con promocion: 2700.0 -> Bebida azucarada
+Bebida: id=15, litros=1.5, precio=1100.0, marca='Cristal' origen='OASIS' -> Agua Mineral
+Bebida: id=16, litros=1.8, precio=1000.0, marca='Gota' origen='OASIS' -> Agua Mineral
+Bebida: id=17, litros=2.1, precio=1300.0, marca='Epura' origen='MANANTIAL' -> Agua Mineral
+Bebida: id=18, litros=2.0, precio=4000.0, marca='Coca cola' porcentajeAzucar=60.0 %, promocion=SI, precio con promocion: 3600.0 -> Bebida azucarada
+Bebida: id=19, litros=2.5, precio=3000.0, marca='Hipinto' porcentajeAzucar=30.0 %, promocion=NO -> Bebida azucarada
+Bebida: id=20, litros=3.0, precio=6000.0, marca='Postobon' porcentajeAzucar=30.0 %, promocion=SI, precio con promocion: 5400.0 -> Bebida azucarada
+Bebida: id=21, litros=3.5, precio=7000.0, marca='Coca cola' porcentajeAzucar=80.0 %, promocion=NO -> Bebida azucarada
+Bebida: id=22, litros=1.7, precio=2500.0, marca='Glacial' porcentajeAzucar=20.0 %, promocion=NO -> Bebida azucarada
+Bebida: id=23, litros=1.0, precio=4000.0, marca='Zabiloe' porcentajeAzucar=10.0 %, promocion=SI, precio con promocion: 3600.0 -> Bebida azucarada
+Bebida: id=24, litros=2.3, precio=3000.0, marca='Ponimalta' porcentajeAzucar=70.0 %, promocion=SI, precio con promocion: 2700.0 -> Bebida azucarada
+Bebida: id=25, litros=1.7, precio=2500.0, marca='Glacial' porcentajeAzucar=20.0 %, promocion=NO -> Bebida azucarada
